@@ -1,0 +1,13 @@
+{
+    "name": "last-check",
+    "description": "Host Onion services in dark web using Heroku CLI",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chiziwe",
+            "email": "chiziwe@yandex.ru"
+        }
+    ],
+    "require": {}
+}
